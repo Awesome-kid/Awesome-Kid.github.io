@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Blog 3
 layout: post
 author: kishan.thayalarajah
 permalink: /untitled-document/
