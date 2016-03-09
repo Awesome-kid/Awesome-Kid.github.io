@@ -12,5 +12,5 @@ Today we learnt how to change the   background of this website ( blue and green)
 
 That is all i have done so far 
 
-From Awesomekid.
+From Awesome kid.
 
