@@ -18,9 +18,11 @@ html {
 }
 
 body {
-	background:#ff9966 ;url(https://images3.alphacoders.com/273/thumb-1920-273289.jpg  font: 18px/1.4 $helvetica);
-  color:#6699ff ;
+	background: $white;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
+
 
 .container {
   margin: 0 auto;
