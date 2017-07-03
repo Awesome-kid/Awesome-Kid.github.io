@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
+I am Brown Sri Lankan who like Pokemon
 
 A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+www.YoucantbecuaseIamaspy.yahoo.co.uk
