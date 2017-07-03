@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am Brown Sri Lankan who like Pokemon
+I am Brown Sri Lankan who like Pokemon 
 
-A place to include any other types of information that you'd like to include about yourself.
+I am Asian and I love to eat curry with my parrota and naan breads.
 
 ### Contact me
 
