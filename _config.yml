@@ -1,4 +1,4 @@
-# 
+
 # This file contains configuration flags to customize your site
 #
 
@@ -6,7 +6,7 @@
 name: Awesome-Kid
 
 # Short bio or description (displayed in the header)
-description: A really cool guy who likes computers.
+description: A Pokemon master on a mission to catch em all( who also does blogs)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://31.media.tumblr.com/95e6970413b090f8d4221a7c67bee547/tumblr_nlb61dO4Vt1u0n985o2_500.gif
@@ -22,18 +22,18 @@ general_assets: images
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
-  flickr:
+  dribbble:donthaveone
+  emailhagotone,butiain'tellinu
+  facebook:donthaveone
+  flickr:donthaveone
   github: barryclark/jekyll-now
-  instagram:
-  linkedin:
-  pinterest:
+  instagram:kissanjam1050
+  linkedin:donthaveone
+  pinterest:donthaveone
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube:Wassabi Productions,Logan Paul and Pewdiepie and also Nigahiga
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
