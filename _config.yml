@@ -40,7 +40,8 @@ It's always been our dream!
 ( who also does blogs)
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://s-media-cache-ak0.pinimg.com/originals/1e/6a/24/1e6a24c368f6fd0118ec3146d8c7ee96.gif
+avatar: url("https://s-media-cache-ak0.pinimg.com/originals/1e/6a/24/1e6a24c368f6fd0118ec3146d8c7ee96.png");
+avatar-position: top right;
 
 
 #Storage of post images and assets
