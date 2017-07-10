@@ -6,8 +6,8 @@
 name: Awesome-Kid
 
 # Short bio or description (displayed in the header)
-description: I wanna be the very best
-Like no one ever was
+description: I wanna be the very best 
+Like no one ever was 
 To catch them is my real test
 To train them is my cause
 
@@ -91,7 +91,7 @@ baseurl: ""
 #
 
 #markdown: redcarpet
-#highlighter: pygments
+#highlighter: rouge
 #permalink: /:title/
 
 # The release of Jekyll Now that you're using
