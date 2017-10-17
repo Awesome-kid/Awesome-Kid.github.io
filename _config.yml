@@ -23,18 +23,18 @@ general_assets: images
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:donthaveone
-  emailhagotone,butiain'tellinu
-  facebook:donthaveone
-  flickr:donthaveone
+  dribbble: donthaveone
+  email: hagotone,butiain'tellinu
+  facebook: donthaveone
+  flickr: donthaveone
   github: barryclark/jekyll-now
-  instagram:kissanjam1050
-  linkedin:donthaveone
-  pinterest:donthaveone
+  instagram: kissanjam1050
+  linkedin: donthaveone
+  pinterest: donthaveone
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube:Thoushallnotknow
+  youtube: Thoushallnotknow
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
