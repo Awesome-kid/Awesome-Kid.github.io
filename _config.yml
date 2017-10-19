@@ -82,3 +82,5 @@ permalink: /:title/
 #    - LICENSE
 #    - README.md
 #    - CNAME
+
+theme: jekyll-theme-architect
